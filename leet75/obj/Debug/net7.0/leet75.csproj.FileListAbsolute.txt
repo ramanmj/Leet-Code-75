@@ -1,0 +1,15 @@
+C:\Users\shlard\source\repos\leet75\leet75\bin\Debug\net7.0\leet75.exe
+C:\Users\shlard\source\repos\leet75\leet75\bin\Debug\net7.0\leet75.deps.json
+C:\Users\shlard\source\repos\leet75\leet75\bin\Debug\net7.0\leet75.runtimeconfig.json
+C:\Users\shlard\source\repos\leet75\leet75\bin\Debug\net7.0\leet75.dll
+C:\Users\shlard\source\repos\leet75\leet75\bin\Debug\net7.0\leet75.pdb
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.csproj.AssemblyReference.cache
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.AssemblyInfoInputs.cache
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.AssemblyInfo.cs
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.csproj.CoreCompileInputs.cache
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.dll
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\refint\leet75.dll
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.pdb
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\leet75.genruntimeconfig.cache
+C:\Users\shlard\source\repos\leet75\leet75\obj\Debug\net7.0\ref\leet75.dll
