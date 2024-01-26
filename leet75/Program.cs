@@ -12,7 +12,13 @@ Console.WriteLine("Solution for Qno 1 :"+mergeALternately);
 //For question 2/75 
 
 //For question 3/75 
-
+KidsWithTheGreatestNumberOfCandies sol3 = new KidsWithTheGreatestNumberOfCandies();
+int[] candies = { 2, 3, 5, 1, 3 };
+IList<bool> kidsWithTheGreatestNOC = sol3.KidsWithCandies(candies,3);
+foreach (bool value in kidsWithTheGreatestNOC)
+{
+    Console.WriteLine(value);
+}
 //For question 4/75 
 
 //For question 5/75 
