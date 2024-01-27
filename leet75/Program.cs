@@ -15,12 +15,15 @@ Console.WriteLine("Solution for Qno 1 :"+mergeALternately);
 KidsWithTheGreatestNumberOfCandies sol3 = new KidsWithTheGreatestNumberOfCandies();
 int[] candies = { 2, 3, 5, 1, 3 };
 IList<bool> kidsWithTheGreatestNOC = sol3.KidsWithCandies(candies,3);
-foreach (bool value in kidsWithTheGreatestNOC)
+/*foreach (bool value in kidsWithTheGreatestNOC)
 {
     Console.WriteLine(value);
-}
+}*/
 //For question 4/75 
-
+CanPlaceFlowers sol4 = new CanPlaceFlowers();
+int[] flowerbed = {1, 0, 0, 0, 1};
+bool canPlaceFlower = sol4.CanPlaceFlower(flowerbed, 2);
+Console.WriteLine(canPlaceFlower);
 //For question 5/75 
 
 //For question 6/75 
