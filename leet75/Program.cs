@@ -25,7 +25,9 @@ int[] flowerbed = {1, 0, 0, 0, 1};
 bool canPlaceFlower = sol4.CanPlaceFlower(flowerbed, 2);
 Console.WriteLine(canPlaceFlower);
 //For question 5/75 
-
+ReverseVowelOfAString sol5 = new ReverseVowelOfAString();
+string revVowel = sol5.ReverseVowels("hello");
+Console.WriteLine(revVowel);    
 //For question 6/75 
 
 //For question 7/75 
